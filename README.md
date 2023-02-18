@@ -7,14 +7,21 @@ I don't know why but making a scientific calculator is seen as the first step af
 
 ## Features
 • Basic addition, subtraction, multiplication, division
+
 • Power and root
+
 • Logarithm and exponent
+
 • Trigonometry functions
+
 • Differentiation and integration
+
 • Equation solver
 
 
 ## Libraries used
 • tkinter (for GUI)
+
 • math (for basic math functions)
+
 • sympy (for advanced math functions and calculus)
